@@ -1,4 +1,4 @@
-﻿class DeliveryManager
+﻿public class DeliveryManager
 {
     private readonly Warehouse _warehouse;
 

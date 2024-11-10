@@ -1,4 +1,4 @@
-﻿class Factory
+﻿public class Factory
 {
     public string Name { get; }
     public string ProductName { get; }

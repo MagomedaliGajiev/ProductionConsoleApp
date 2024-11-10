@@ -1,4 +1,4 @@
-﻿class Truck
+﻿public class Truck
 {
     private readonly Warehouse _warehouse;
     public int Capacity { get; }

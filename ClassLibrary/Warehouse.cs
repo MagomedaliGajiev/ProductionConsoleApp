@@ -1,6 +1,6 @@
 ﻿using System.Collections.Concurrent;
 
-class Warehouse
+public class Warehouse
 {
     private readonly int _capacity;
     private readonly ConcurrentDictionary<string, int> _currentStock = new ConcurrentDictionary<string, int>();
